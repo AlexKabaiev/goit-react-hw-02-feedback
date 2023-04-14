@@ -1,3 +1,3 @@
 import PropTypes from 'prop-types';
-import './Feedback.module.css';
+import css from './Feedback.module.css';
 

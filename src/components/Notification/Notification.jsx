@@ -1,2 +1,2 @@
 import PropTypes from 'prop-types';
-import css from './Notificstion.module.css';
+import css from './Notification.module.css';
